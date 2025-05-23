@@ -31,7 +31,6 @@ function App() {
 
         setUsuarios(usersWithGender);
         setUsuariosFiltrados(usersWithGender);
-=======
 import './App.css'; // Você pode criar esse arquivo ou ignorar
 
 function App() {
